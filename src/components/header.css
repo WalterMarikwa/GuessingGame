@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid white;
+    text-align: center;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+input {
+    font-size: 15px;
+}
+
+
